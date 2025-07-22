@@ -1,4 +1,4 @@
-## Project Desc - 
+## Project Desc
 My intentions here are to test and see how easy you can setup github pages using nextjs static page generation
 
 ---------------------------
