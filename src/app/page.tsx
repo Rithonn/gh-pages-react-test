@@ -75,7 +75,7 @@ export default function Home() {
         >
           <Image
             aria-hidden
-            src="/images/window.svg"
+            src="/gh-pages-react-test/images/window.svg"
             alt="Window icon"
             width={16}
             height={16}
@@ -90,7 +90,7 @@ export default function Home() {
         >
           <Image
             aria-hidden
-            src="/images/globe.svg"
+            src="/gh-pages-react-test/images/globe.svg"
             alt="Globe icon"
             width={16}
             height={16}
