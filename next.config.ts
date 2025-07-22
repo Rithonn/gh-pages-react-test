@@ -8,7 +8,7 @@ const nextConfig: NextConfig = {
    *
    * @see https://nextjs.org/docs/app/api-reference/next-config-js/basePath
    */
-  basePath: "https://rithonn.github.io/gh-pages-react-test/",
+  basePath: "/gh-pages-react-test/",
 
   /**
    * Disable server-based image optimization. Next.js does not support
